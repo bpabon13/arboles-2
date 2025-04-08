@@ -1,0 +1,17 @@
+h1{
+    background-color: green;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 25px;
+    margin: 4px;
+    border: 4px;   
+}
+
+nav{
+    background-color: rgb(157, 220, 157);
+    color: black;
+    text-align: right;
+    list-style: none;
+}
